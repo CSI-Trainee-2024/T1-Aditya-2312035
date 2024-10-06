@@ -141,9 +141,159 @@ a{
     color: aquamarine;
 }
 
-.service{
+.service .italy{
+    background-color: #7CF5FF;
+}
+
+.service .s1{
     margin-top: 7rem;
     text-align: center;
     color: #4F75FF;
     text-decoration: underline;
+}
+
+.service .image{
+    height: 25rem;
+    width: 25rem;
+}
+
+.italy .sp1{
+    margin-left: 2rem;
+}
+
+.italy .sp2{
+    color: #00CCDD;
+    text-decoration: underline;
+}
+
+.italy1{
+    display: flex;
+    margin-left: 10rem;
+}
+
+.italy1 .rome{
+    margin-left: 13rem;
+}
+
+.see_more{
+    color: #fff;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    background-color: green;
+    border: none;
+    height: 2rem;
+}
+
+.service .japan{
+    background-color: #fff;
+}
+
+.japan .sp1{
+    margin-left: 2rem;
+}
+
+.japan .sp2{
+    color: #00CCDD;
+    text-decoration: underline;
+}
+
+.japan1{
+    display: flex;
+    margin-left: 10rem;
+}
+
+.japan1 .kyoto{
+    margin-left: 13rem;
+}
+
+
+.service .new_zealand{
+    background-color: #7CF5FF;
+}
+
+.new_zealand .sp1{
+    margin-left: 2rem;
+}
+
+.new_zealand .sp2{
+    color: #00CCDD;
+    text-decoration: underline;
+}
+
+.new_zealand1{
+    display: flex;
+    margin-left: 10rem;
+}
+
+.new_zealand1 .Rotorua{
+    margin-left: 13rem;
+}
+
+
+.service .Thailand{
+    background-color: #fff;
+}
+
+.Thailand .sp1{
+    margin-left: 2rem;
+}
+
+.Thailand .sp2{
+    color: #00CCDD;
+    text-decoration: underline;
+}
+
+.Thailand1{
+    display: flex;
+    margin-left: 10rem;
+}
+
+.Thailand1 .Phuket{
+    margin-left: 13rem;
+}
+
+
+.service .Greece{
+    background-color: #7CF5FF;
+}
+
+.Greece .sp1{
+    margin-left: 2rem;
+}
+
+.Greece .sp2{
+    color: #00CCDD;
+    text-decoration: underline;
+}
+
+.Greece1{
+    display: flex;
+    margin-left: 10rem;
+}
+
+.Greece1 .Athens{
+    margin-left: 13rem;
+}
+
+
+.service .Canada{
+    background-color: #fff;
+}
+
+.Canada .sp1{
+    margin-left: 2rem;
+}
+
+.Canada .sp2{
+    color: #00CCDD;
+    text-decoration: underline;
+}
+
+.Canada1{
+    display: flex;
+    margin-left: 10rem;
+}
+
+.Canada1 .Toronto{
+    margin-left: 13rem;
 }
