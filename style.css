@@ -353,3 +353,129 @@ footer .links{
     display: flex;
     justify-content: end;
 }
+
+.last h3{
+    color: white;
+}
+
+a:hover{
+    font-weight: 800;
+}
+
+.header a:hover{
+    color: #00CCDD;
+}
+
+.service img{
+    transition: 0.4s;
+}
+
+.service img:hover{
+    box-shadow: 0 8px 16px black;
+}
+
+.see_more{
+    transition: 0.2s;
+}
+
+.see_more:hover{
+    box-shadow: 0 4px 8px green;
+    font-weight: 800;
+}
+
+/*services image transform*/
+/* .tokyo img{
+    transform: skew(-40deg);
+}
+
+.kyoto img{
+    transform: skew(40deg);
+}
+
+.tokyo img:hover{
+    transform: skew(0deg);
+}
+
+.kyoto img:hover{
+    transform: skew(0deg);
+}
+
+.Florence img{
+    transform: skew(-40deg);
+}
+
+.Florence img:hover{
+    transform: skew(0deg);
+}
+
+.rome img{
+    transform: skew(40deg);
+}
+
+.rome img:hover{
+    transform: skew(0deg);
+}
+
+.Queenstown img{
+    transform: skew(-40deg);
+}
+
+.Queenstown img:hover{
+    transform: skew(0deg);
+}
+
+.Rotorua img{
+    transform: skew(40deg);
+}
+
+.Rotorua img:hover{
+    transform: skew(0deg);
+}
+
+.Bangkok img{
+    transform: skew(-40deg);
+}
+
+.Bangkok img:hover{
+    transform: skew(0deg);
+}
+
+.Phuket img{
+    transform: skew(40deg);
+}
+
+.Phuket img:hover{
+    transform: skew(0deg);
+}
+
+.Santorini img{
+    transform: skew(-40deg);
+}
+
+.Santorini img:hover{
+    transform: skew(0deg);
+}
+
+.Athens img{
+    transform: skew(40deg);
+}
+
+.Athens img:hover{
+    transform: skew(0deg);
+}
+
+.Vancouver img{
+    transform: skew(-40deg);
+}
+
+.Vancouver img:hover{
+    transform: skew(0deg);
+}
+
+.Toronto img{
+    transform: skew(40deg);
+}
+
+.Toronto img:hover{
+    transform: skew(0deg);
+} */
