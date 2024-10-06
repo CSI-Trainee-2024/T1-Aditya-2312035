@@ -297,3 +297,59 @@ a{
 .Canada1 .Toronto{
     margin-left: 13rem;
 }
+
+.visit{
+    text-align: center;
+    margin-top: 5rem;
+    /* background-color: #00CCDD; */
+    /* background-color: green; */
+}
+
+.visit h1{
+    /* color: #6439FF; */
+    /* color: white; */
+    text-decoration: underline;
+}
+
+.visit1{
+    display: flex;
+    justify-content: center;
+}
+
+.visit1 .right{
+    margin-left: 20rem;
+    /* background-color: #00CCDD; */
+    /* background-color: green;
+    color: white; */
+}
+
+
+
+footer{
+    display: flex;
+    background-color: lightskyblue;
+    height: 20rem;
+}
+
+footer ul{
+    list-style-type:circle;
+}
+
+footer ul li{
+    padding-bottom: 2rem;
+}
+
+footer .contact{
+    margin-left: 12rem;
+}
+
+footer .links{
+    margin-left: 12rem;
+    margin-right: 12rem;
+}
+
+.last{
+    background-color: blueviolet;
+    display: flex;
+    justify-content: end;
+}
