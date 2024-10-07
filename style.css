@@ -383,6 +383,73 @@ a:hover{
     font-weight: 800;
 }
 
+@media(max-width:1000px){
+    .rome{
+        display: none;
+    }
+
+    .kyoto{
+        display: none;
+    }
+
+    .Rotorua{
+        display: none;
+    }
+
+    .Phuket{
+        display: none;
+    }
+
+    .Athens{
+        display: none;
+    }
+
+    .Toronto{
+        display: none;
+    }
+}
+
+@media(max-width:1272px){
+    .linkedin{
+        display: none;
+    }
+}
+
+@media(max-width:1142px){
+    .whatsapp{
+        display: none;
+    }
+}
+
+@media(max-width:1029px){
+    .youtube{
+        display: none;
+    }
+}
+
+@media(max-width:887px){
+    .x{
+        display: none;
+    }
+}
+
+@media(max-width:751px){
+    .insta{
+        display: none;
+    }
+}
+
+@media(max-width:631px){
+    .face{
+        display: none;
+    }
+}
+
+@media(max-width:496px){
+    .phone{
+        display: none;
+    }
+}
 /*services image transform*/
 /* .tokyo img{
     transform: skew(-40deg);
